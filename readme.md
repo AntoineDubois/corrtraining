@@ -1,0 +1,1 @@
+The project Deep-Correlation uses deep reinforcement learning to discover a an algorithm that maximises the sum of determinant of a covariance matrix’s diagonal blocks.  
